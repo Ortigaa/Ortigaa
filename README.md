@@ -9,7 +9,7 @@ Currently, I work in laboratory management, focusing on technical support, instr
 ## What I'm working on
 * Working on expanding my knowledge in electronics doing some fun projects
 
-### Tech Stack & Skills
+## Tech Stack & Skills
 
 *   **Automation & Scripting:** Python, LabVIEW
 *   **CAD Design:** SolidWorks, FreeCAD (3D modeling for custom experimental parts and layouts)
@@ -19,7 +19,7 @@ Currently, I work in laboratory management, focusing on technical support, instr
 
 ---
 
-### Core Focus
+## Core Focus
 
 *   **Lab Automation:** Writing straightforward scripts to streamline data collection and instrument control.
 *   **Mechanical & Setup Design:** Using SolidWorks and FreeCAD to design custom brackets, enclosures, or laboratory layouts.
@@ -27,7 +27,7 @@ Currently, I work in laboratory management, focusing on technical support, instr
 
 ---
 
-### Background
+## Background
 
 *   **Ph.D. in Engineering** with international experience in Germany and Spain.
 *   Focused on practical, reliable engineering solutions rather than theoretical modeling.
