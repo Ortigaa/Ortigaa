@@ -11,7 +11,7 @@ Currently, I work in laboratory management, focusing on technical support, instr
 
 ## Tech Stack & Skills
 
-*   **Automation & Scripting:** Python, LabVIEW
+*   **Automation & Scripting:** Python, LabVIEW, C++, Matlab
 *   **CAD Design:** SolidWorks, FreeCAD (3D modeling for custom experimental parts and layouts)
 *   **Electronics:** PCB design (KiCad), circuit simulation (LTspice)
 *   **Hardware Integration:** Connecting and automating test and measurement instruments (sourcemeters, sensors, DAQ systems)
